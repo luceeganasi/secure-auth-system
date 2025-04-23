@@ -23,7 +23,7 @@ A robust PHP-based authentication system with two-factor authentication (2FA) an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/secure-auth-system.git
+git clone https://github.com/luceeganasi/secure-auth-system.git
 ```
 
 2. Configure the database:
